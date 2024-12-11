@@ -1,0 +1,13 @@
+sudo git clone [https://github.com/layzeekid47/INT-2761/new/main]
+cd [INT 2761]
+
+cp /path/to/act2script1.sh .
+cp /path/to/act2script2.sh .
+cp /path/to/act2script3.sh .
+
+sudo git add act2script1.sh act2script2.sh act2script3.sh
+sudo git commit -m 
+sudo git push
+
+
+
